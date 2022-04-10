@@ -22,15 +22,15 @@ var champions = {
   //   ["R", 3 , [100,100,100], "", ],
   //   'mana'
   // ],
-  //
-  // 'Jax': [
-  //   ["Q", 5 , [65,65,65,65,65], "", ],
-  //   ["W", 5 , [30,30,30,30,30], "", ],
-  //   ["E", 5 , [50,60,70,80,90], "", ],
-  //   ["R", 3 , [100,100,100], "", ],
-  //   'mana'
-  // ],
-  //
+
+  'Jax': [
+    ["Q", 5 , [65,65,65,65,65], "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Jax_Leap_Strike.png/revision/latest/scale-to-width-down/64?cb=20171223030831", ],
+    ["W", 5 , [30,30,30,30,30], "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Jax_Empower.png/revision/latest/scale-to-width-down/64?cb=20171223030800", ],
+    ["E", 5 , [50,60,70,80,90], "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Jax_Counter_Strike.png/revision/latest/scale-to-width-down/64?cb=20171223030746", ],
+    ["R", 3 , [100,100,100], "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Jax_Grandmaster%27s_Might.png/revision/latest/scale-to-width-down/64?cb=20171223030814", ],
+    'mana'
+  ],
+
   'Kayle': [
     ["Q", 5 , [70,75,80,85,90], "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Kayle_Radiant_Blast.png/revision/latest/scale-to-width-down/64?cb=20190219193954", ],
     ["W", 5 , [90,100,110,120,130], "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Kayle_Celestial_Blessing.png/revision/latest/scale-to-width-down/64?cb=20190219194057", ],

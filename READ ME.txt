@@ -1,9 +1,10 @@
-Manage Your Mana v1.1.1 by Arsonyst
+Manage Your Mana v1.1.2 by Arsonyst
 
 Simply open ManageYourMana.html in your preferred browser to play!
 
 Current champion list:
 
+-Jax
 -Kayle
 -Morgana
 -Quinn
