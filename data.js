@@ -31,13 +31,13 @@ var champions = {
   //   'mana'
   // ],
   //
-  // 'Kayle': [
-  //   ["Q", 5 , [70,75,80,85,90], "", ],
-  //   ["W", 5 , [90,100,110,120,130], "", ],
-  //   ["E", 5 , [0,0,0,0,0], "", ],
-  //   ["R", 3 , [100,50,0], "", ],
-  //   'mana'
-  // ],
+  'Kayle': [
+    ["Q", 5 , [70,75,80,85,90], "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Kayle_Radiant_Blast.png/revision/latest/scale-to-width-down/64?cb=20190219193954", ],
+    ["W", 5 , [90,100,110,120,130], "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Kayle_Celestial_Blessing.png/revision/latest/scale-to-width-down/64?cb=20190219194057", ],
+    ["E", 5 , [0,0,0,0,0], "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Kayle_Starfire_Spellblade.png/revision/latest/scale-to-width-down/64?cb=20190220223457", ],
+    ["R", 3 , [100,50,0], "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Kayle_Divine_Judgment.png/revision/latest/scale-to-width-down/64?cb=20190219193938", ],
+    'mana'
+  ],
 
   'Morgana': [
     ["Q", 5 , [50,55,60,65,70], "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Morgana_Dark_Binding.png/revision/latest/scale-to-width-down/64?cb=20160608032328", ],
