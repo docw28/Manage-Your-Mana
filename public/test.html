@@ -1,0 +1,34 @@
+<head>
+
+<script src="p5.js"></script>
+<script src="data.js"></script>
+<script src="functions.js"></script>
+
+</head>
+<body>
+
+<script>
+
+var data = "";
+
+function preload() {
+
+  data = loadJSON("data.json");
+
+}
+
+function setup() {
+
+  createCanvas(500,500);
+  background(250);
+  noStroke();
+  let j = 0;
+
+  loadImage(data.champions[1].abilities[0].url, img => {
+    image(img, 0, 0);
+  });
+}
+
+</script>
+
+</body>
