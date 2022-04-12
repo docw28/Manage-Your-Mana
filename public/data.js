@@ -15,13 +15,13 @@ var champions = {
   //   'mana'
   // ],
   //
-  // 'Jarvan': [
-  //   ["Q", 5 , [45,50,55,60,65], "", ],
-  //   ["W", 5 , [30,30,30,30,30], "", ],
-  //   ["E", 5 , [55,55,55,55,55], "", ],
-  //   ["R", 3 , [100,100,100], "", ],
-  //   'mana'
-  // ],
+  'Jarvan': [
+    ["Q", 5 , [45,50,55,60,65], "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Jarvan_IV_Dragon_Strike.png", ],
+    ["W", 5 , [30,30,30,30,30], "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Jarvan_IV_Golden_Aegis.png", ],
+    ["E", 5 , [55,55,55,55,55], "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Jarvan_IV_Demacian_Standard.png", ],
+    ["R", 3 , [100,100,100], "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Jarvan_IV_Cataclysm.png", ],
+    'mana'
+  ],
 
   'Jax': [
     ["Q", 5 , [65,65,65,65,65], "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Jax_Leap_Strike.png", ],
