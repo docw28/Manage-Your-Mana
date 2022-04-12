@@ -1,0 +1,26 @@
+{
+  "name": "manage-your-mana",
+  "version": "1.2.0",
+  "description": "A trivia game about LoL mana costs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docw28/Manage-Your-Mana.git"
+  },
+  "keywords": [
+    "game",
+    "mana"
+  ],
+  "author": "Dafydd Carver-Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/docw28/Manage-Your-Mana/issues"
+  },
+  "homepage": "https://github.com/docw28/Manage-Your-Mana#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
