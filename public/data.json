@@ -1,0 +1,304 @@
+{
+  "champions": [
+    {
+      "name": "Akali",
+      "resource": "energy",
+      "abilities": [
+        {
+          "butt": "Q",
+          "ranks": 5,
+          "cost": [130,115,100,85,70],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/Akali_Five_Point_Strike.png"
+        },
+        {
+          "butt": "W",
+          "ranks": 5,
+          "cost": [0,0,0,0,0],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/4/41/Akali_Twilight_Shroud.png"
+        },
+        {
+          "butt": "E",
+          "ranks": 5,
+          "cost": [30,30,30,30,30],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/Akali_Shuriken_Flip.png"
+        },
+        {
+          "butt": "R",
+          "ranks": 3,
+          "cost": [0,0,0],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Akali_Perfect_Execution.png"
+        }
+      ]
+    },
+    {
+      "name": "Irelia",
+      "resource": "mana",
+      "abilities": [
+        {
+          "butt": "Q",
+          "ranks": 5,
+          "cost": [20,20,20,20,20],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Irelia_Bladesurge.png"
+        },
+        {
+          "butt": "W",
+          "ranks": 5,
+          "cost": [70,75,80,85,90],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Irelia_Defiant_Dance.png"
+        },
+        {
+          "butt": "E",
+          "ranks": 5,
+          "cost": [50,50,50,50,50],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Irelia_Flawless_Duet.png"
+        },
+        {
+          "butt": "R",
+          "ranks": 3,
+          "cost": [100,100,100],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/b/b7/Irelia_Vanguard%27s_Edge.png"
+        }
+      ]
+    },
+    {
+      "name": "Jarvan IV",
+      "resource": "mana",
+      "abilities": [
+        {
+          "butt": "Q",
+          "ranks": 5,
+          "cost": [45,50,55,60,65],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Jarvan_IV_Dragon_Strike.png"
+        },
+        {
+          "butt": "W",
+          "ranks": 5,
+          "cost": [30,30,30,30,30],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Jarvan_IV_Golden_Aegis.png"
+        },
+        {
+          "butt": "E",
+          "ranks": 5,
+          "cost": [55,55,55,55,55],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Jarvan_IV_Demacian_Standard.png"
+        },
+        {
+          "butt": "R",
+          "ranks": 5,
+          "cost": [100,100,100],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Jarvan_IV_Cataclysm.png"
+        }
+      ]
+    },
+    {
+      "name": "Jax",
+      "resource": "mana",
+      "abilities": [
+        {
+          "butt": "Q",
+          "ranks": 5,
+          "cost": [65,65,65,65,65],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Jax_Leap_Strike.png"
+        },
+        {
+          "butt": "W",
+          "ranks": 5,
+          "cost": [30,30,30,30,30],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/Jax_Empower.png"
+        },
+        {
+          "butt": "E",
+          "ranks": 5,
+          "cost": [50,60,70,80,90],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Jax_Counter_Strike.png"
+        },
+        {
+          "butt": "R",
+          "ranks": 3,
+          "cost": [100,100,100,100,100],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Jax_Grandmaster%27s_Might.png"
+        }
+      ]
+    },
+    {
+      "name": "Kayle",
+      "resource": "mana",
+      "abilities": [
+        {
+          "butt": "Q",
+          "ranks": 5,
+          "cost": [70,75,80,85,90],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Kayle_Radiant_Blast.png"
+        },
+        {
+          "butt": "W",
+          "ranks": 5,
+          "cost": [90,100,110,120,130],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Kayle_Celestial_Blessing.png"
+        },
+        {
+          "butt": "E",
+          "ranks": 5,
+          "cost": [0,0,0,0,0],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Kayle_Starfire_Spellblade.png"
+        },
+        {
+          "butt": "R",
+          "ranks": 3,
+          "cost": [100,50,0],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Kayle_Divine_Judgment.png"
+        }
+      ]
+    },
+    {
+      "name": "Morgana",
+      "resource": "mana",
+      "abilities": [
+        {
+          "butt": "Q",
+          "ranks": 5,
+          "cost": [50,55,60,65,70],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Morgana_Dark_Binding.png"
+        },
+        {
+          "butt": "W",
+          "ranks": 5,
+          "cost": [70,85,100,115,130],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/8/8f/Morgana_Tormented_Shadow.png"
+        },
+        {
+          "butt": "E",
+          "ranks": 5,
+          "cost": [80,80,80,80,80],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Morgana_Black_Shield.png"
+        },
+        {
+          "butt": "R",
+          "ranks": 3,
+          "cost": [100,100,100],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/6/61/Morgana_Soul_Shackles.png"
+        }
+      ]
+    },
+    {
+      "name": "Quinn",
+      "resource": "mana",
+      "abilities": [
+        {
+          "butt": "Q",
+          "ranks": 5,
+          "cost": [50,55,60,65,70],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Quinn_Blinding_Assault.png"
+        },
+        {
+          "butt": "W",
+          "ranks": 5,
+          "cost": [0,0,0,0,0],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Quinn_Heightened_Senses.png"
+        },
+        {
+          "butt": "E",
+          "ranks": 5,
+          "cost": [50,50,50,50,50],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Quinn_Vault.png"
+        },
+        {
+          "butt": "R",
+          "ranks": 3,
+          "cost": [100,50,0],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Quinn_Behind_Enemy_Lines.png"
+        }
+      ]
+    },
+    {
+      "name": "Rammus",
+      "resource": "mana",
+      "abilities": [
+        {
+          "butt": "Q",
+          "ranks": 5,
+          "cost": [60,60,60,60,60],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/1/1a/Rammus_Powerball.png"
+        },
+        {
+          "butt": "W",
+          "ranks": 5,
+          "cost": [40,40,40,40,40],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/a/af/Rammus_Defensive_Ball_Curl.png"
+        },
+        {
+          "butt": "E",
+          "ranks": 5,
+          "cost": [50,50,50,50,50],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/8/89/Rammus_Frenzying_Taunt.png"
+        },
+        {
+          "butt": "R",
+          "ranks": 3,
+          "cost": [100,100,100],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Rammus_Soaring_Slam.png"
+        }
+      ]
+    },
+    {
+      "name": "Swain",
+      "resource": "mana",
+      "abilities": [
+        {
+          "butt": "Q",
+          "ranks": 5,
+          "cost": [65,70,75,80,85],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/d/d4/Swain_Death%27s_Hand.png"
+        },
+        {
+          "butt": "W",
+          "ranks": 5,
+          "cost": [70,80,90,100,110],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/2/29/Swain_Vision_of_Empire.png"
+        },
+        {
+          "butt": "E",
+          "ranks": 5,
+          "cost": [50,50,50,50,50],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Swain_Nevermove.png"
+        },
+        {
+          "butt": "R",
+          "ranks": 3,
+          "cost": [100,100,100],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/8/83/Swain_Demonic_Ascension.png"
+        }
+      ]
+    },
+    {
+      "name": "Zyra",
+      "resource": "mana",
+      "abilities": [
+        {
+          "butt": "Q",
+          "ranks": 5,
+          "cost": [70,70,70,70,70],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Zyra_Deadly_Spines.png"
+        },
+        {
+          "butt": "W",
+          "ranks": 5,
+          "cost": [0,0,0,0,0],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Zyra_Rampant_Growth.png"
+        },
+        {
+          "butt": "E",
+          "ranks": 5,
+          "cost": [70,75,80,85,90],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Zyra_Grasping_Roots.png"
+        },
+        {
+          "butt": "R",
+          "ranks": 3,
+          "cost": [100,100,100],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Zyra_Stranglethorns.png"
+        }
+      ]
+    }
+  ]
+}

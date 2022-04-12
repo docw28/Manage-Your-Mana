@@ -9,7 +9,7 @@
 
 <script>
 
-let w, h, s, health, score;
+let w, h, s, health, score, data, busy, answer;
 
 function setup() {
 
@@ -20,6 +20,7 @@ function setup() {
   health = 100;
   score = 0;
   busy = true;
+  answer = 0;
 
   createCanvas(w,h);
   background(250)

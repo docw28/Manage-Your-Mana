@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "resource": "",
+  "abilities": [
+    {
+      "butt": "Q",
+      "ranks": 5,
+      "cost": [],
+      "url" : ""
+    },
+    {
+      "butt": "W",
+      "ranks": 5,
+      "cost": [],
+      "url" : ""
+    },
+    {
+      "butt": "E",
+      "ranks": 5,
+      "cost": [],
+      "url" : ""
+    },
+    {
+      "butt": "R",
+      "ranks": 3,
+      "cost": [],
+      "url" : ""
+    }
+  ]
+}
