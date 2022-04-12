@@ -1,4 +1,4 @@
-Manage Your Mana v1.1.3 by Arsonyst
+Manage Your Mana v1.2.0 by Arsonyst
 
 Simply open ManageYourMana.html in your preferred browser to play!
 
