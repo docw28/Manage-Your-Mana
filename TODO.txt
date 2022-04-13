@@ -1,0 +1,5 @@
+TODO:
+> Mobile-friendly site
+> Input authentication
+> Champion input form
+> More questions than just "what does x cost at y rank"
