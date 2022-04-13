@@ -50,6 +50,7 @@ function newInstance() {
 
   // generates a random champion, ability and rank
   c = int(random(data.champions.length));
+  // c = 6;
   a = int(random(data.champions[c].abilities.length));
   r = int(random(data.champions[c].abilities[a].ranks));
 

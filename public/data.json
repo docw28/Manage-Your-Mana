@@ -181,6 +181,36 @@
       ]
     },
     {
+      "name": "Orianna",
+      "resource": "mana",
+      "abilities": [
+        {
+          "butt": "Q",
+          "ranks": 5,
+          "cost": [30,35,40,45,50],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/8/8c/Orianna_Command-_Attack.png"
+        },
+        {
+          "butt": "W",
+          "ranks": 5,
+          "cost": [70,80,90,100,110],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Orianna_Command-_Dissonance.png"
+        },
+        {
+          "butt": "E",
+          "ranks": 5,
+          "cost": [60,60,60,60,60],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/0/04/Orianna_Command-_Protect.png"
+        },
+        {
+          "butt": "R",
+          "ranks": 3,
+          "cost": [110,95,80],
+          "url" : "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Orianna_Command-_Shockwave.png"
+        }
+      ]
+    },
+    {
       "name": "Quinn",
       "resource": "mana",
       "abilities": [
