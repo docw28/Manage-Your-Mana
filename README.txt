@@ -11,7 +11,8 @@ Current champion list:
 -Jax
 -Kayle
 -Morgana
+-Orianna
 -Quinn
 -Rammus
 -Swain
--Zyra 
+-Zyra
